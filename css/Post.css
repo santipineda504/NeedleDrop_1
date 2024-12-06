@@ -1,0 +1,74 @@
+@charset "utf-8";
+/* CSS Document */
+
+body{
+	font-family: 'Montserrat', sans-serif;
+	font-optical-sizing: auto;
+	background-color: #FFFCEF !important;
+}
+	
+.album-header img {
+  height: 200px;
+  object-fit: cover;
+}
+
+.back-btn {
+  background-color: rgba(0, 0, 0, 0.5);
+  color: white;
+  border: none;
+  font-size: 1.5rem;
+  padding: 5px 10px;
+  border-radius: 50%;
+}
+
+.album-info h3 {
+  color: #000;
+}
+
+.btn-danger {
+  background-color: #345247;
+  border: none;
+}
+
+.btn-danger:hover {
+  background-color: #345247;
+}
+
+.btn-success {
+  background-color: #345247;
+}
+
+.navbar{
+	background-color: #F1E9CA;
+	border-top: 1px solid #3E2308;
+}
+
+.btn{
+	font-size: 16px;
+}
+
+.btn-primary{
+	height: 60px;
+	text-align: center;
+	background-color: #F06060 !important;
+}
+
+.btn-primary2{
+	margin-top: -50px;
+	padding-bottom: 50px;
+	color: #FFFFFF;
+	height: 60px;
+	text-align: center;
+	background-color: #345247 !important;
+}
+
+.py-3{
+	padding-bottom: 45px;
+}
+
+nav{
+	position: relative;
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+}

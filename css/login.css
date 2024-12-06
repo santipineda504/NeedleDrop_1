@@ -1,0 +1,45 @@
+@charset "utf-8";
+/* CSS Document */
+
+body{
+	font-family: 'Montserrat', sans-serif;
+	font-optical-sizing: auto;
+	background-color: #FFFCEF !important;
+}
+
+body .container{
+	align-content: center;
+}
+
+#img-logo{
+	width: 150px;
+	height: 150px;
+	margin: 100px auto;
+	display: block;
+}
+
+#inlineFormInput{
+	padding: 15px;
+	background-color: #F8F2DC;
+	color: #000000;
+}
+
+#inlineFormInputGroup{
+	padding: 15px;
+	background-color: #F8F2DC;
+	color: #000000 !important; 
+}
+
+.btn{
+	font-size: 16px;
+}
+
+.btn-primary{
+	height: 60px;
+	text-align: center;
+	background-color: #F06060 !important;
+}
+
+.opciones{
+	padding-top: 65px;
+}

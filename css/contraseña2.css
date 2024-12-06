@@ -1,0 +1,93 @@
+@charset "utf-8";
+/* CSS Document */
+
+body{
+	font-family: 'Montserrat', sans-serif;
+	font-optical-sizing: auto;
+	background-color: #FFFCEF !important;
+	max-height: 932px;
+}
+
+.icon{
+	width: 34px;
+	height: 34px;
+	display: block;
+}
+
+.icon1{
+	margin-top: 50px;
+	margin-left: 20px;
+}
+
+body h1{
+	font-size: 35px;
+	margin-top: 230px;
+	margin-bottom: 80px;
+}
+
+.user{
+	margin-top: 50px;
+}
+
+.icon2{
+	height: 20px;
+	width: 18px;
+}
+
+.btn{
+	font-size: 16px;
+	margin-bottom: 50px;
+}
+
+.btn-primary{
+	height: 60px;
+	text-align: center;
+	background-color: #F06060 !important;
+}
+
+.social{
+	background-color: #000000 !important;
+	color: white;
+}
+
+.social img{
+	text-align: left;
+}
+
+#inlineFormInput{
+	padding: 15px;
+	background-color: #F8F2DC;
+	color: #000000;
+}
+
+#inlineFormInputGroup{
+	padding: 15px;
+	background-color: #F8F2DC;
+	color: #000000 !important; 
+}
+
+body .container{
+	align-content: center;
+}
+
+.btn-dark {
+	font-size: 16px;
+	height: 60px;
+  	background-color: #000000; 
+  	border: none; 
+}
+
+.opciones{
+	padding-top: 100px;
+}
+
+ .form-control1 {
+	border-bottom: 1px solid #3E2308;
+	border-radius: 8px;
+	text-align: center;
+	background-color: #F8F2DC;
+	width: 50px;
+	height: 60px;
+	display: inline-block;
+	margin: 0 auto;
+}
